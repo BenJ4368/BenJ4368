@@ -1,9 +1,10 @@
+<base target="_blank">
 <h1 align="center">Hi, I'm Benjamin </h1>
 <h3 align="center">Enthusiastic 42student who enjoys talking nonsense to computers</h3>
 
 ### 🚀 About Me
 
-🎓 - I'm currently learning `C`, via [42](https://42.fr/en/homepage/){:target="_blank"}'s common core projects in the Mulhouse campus.
+🎓 - I'm currently learning `C`, via [42](https://42.fr/en/homepage/)'s common core projects in the Mulhouse campus.
 
 🎮 - Simultaneously, I'm discovering `Java` and `JavaScript` while creating Discord bots and Minecraft mods. I also know a bit of HTML5, CSS3 and PHP thanks to classes I took some time ago.
 
