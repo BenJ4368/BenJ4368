@@ -1,4 +1,3 @@
-<base target="_blank">
 <h1 align="center">Hi, I'm Benjamin </h1>
 <h3 align="center">Enthusiastic 42student who enjoys talking nonsense to computers</h3>
 
