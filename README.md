@@ -1,7 +1,7 @@
 # 👋 Bonjour, moi c'est BenJ !
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Passionné+de+Cyberdefense;Etudiant+42Mulhouse;Hackin+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Passionné+de+Cyberdefense;Etudiant+42Mulhouse;Hacking+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 À propos de moi
