@@ -11,7 +11,7 @@
 
 - 🔭 Je travaille actuellement sur [**la CyberPiscine**](https://github.com/BenJ4368/CyberPiscine) de [**42Mulhouse**](https://www.42mulhouse.fr/en/)
 - 🛡️ Passionné par la **sécurité informatique** et la **protection des systemes d'informations**.
-- 🌱 J'apprends en parallele le **Java** et le **DiscordJS** via un la création d'[plugin](https://github.com/BenJ4368/BriochePlugin) pour le serveur d'un [youtubeur](https://www.youtube.com/@darteuh), et de mon propre [bot discord](https://github.com/BenJ4368/Merlin).
+- 🌱 J'apprends en parallele le **Java** et le **DiscordJS** via un la création d'un [**plugin**](https://github.com/BenJ4368/BriochePlugin) pour le serveur d'un [**youtubeur**](https://www.youtube.com/@darteuh), et de mon propre [**bot discord**](https://github.com/BenJ4368/Merlin).
 - ⚡ Fun fact : **Grand joueur de Minecaft et amateur de Cinéma**
 
 ## 🛠️ Technologies & Outils
