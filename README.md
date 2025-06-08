@@ -11,7 +11,7 @@
 
 - 🔭 Je travaille actuellement sur [**la CyberPiscine**](https://github.com/BenJ4368/CyberPiscine) de [**42Mulhouse**](https://www.42mulhouse.fr/en/)
 - 🛡️ Passionné par la **sécurité informatique** et la **protection des systemes d'informations**.
-- 🌱 J'apprends en parallele le **Java** et le **DiscordJS** via des projets personnels.
+- 🌱 J'apprends en parallele le **Java** et le **DiscordJS** via un la création d'[plugin](https://github.com/BenJ4368/BriochePlugin) pour le serveur d'un [youtubeur](https://www.youtube.com/@darteuh), et de mon propre [bot discord](https://github.com/BenJ4368/Merlin).
 - ⚡ Fun fact : **Grand joueur de Minecaft et amateur de Cinéma**
 
 ## 🛠️ Technologies & Outils
@@ -35,6 +35,7 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Maven](https://img.shields.io/maven-central/v/:groupId/:artifactId)
 
 
 </div>
