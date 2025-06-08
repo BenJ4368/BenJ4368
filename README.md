@@ -35,7 +35,7 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Maven](https://img.shields.io/maven-central/v/:groupId/:artifactId)
+![Maven Central](https://img.shields.io/maven-central/v/org.apache.commons/commons-lang3)
 
 
 </div>
