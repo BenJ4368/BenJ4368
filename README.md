@@ -7,11 +7,11 @@
 ## 🚀 À propos de moi
 
 - 🎯 **En recherche active de stages ou d'alternances en cybersécurité**
-- - 📫 Je suis joignable ici : **benjamingaertner.pro@outlook.fr**
+- - 📫 Je suis joignable ici : [**benjaming@outlook.fr**](mailto:benjaming@outlook.fr)
 
 - 🔭 Je travaille actuellement sur le projet [**Woody_woodpacker**](https://github.com/vvpoirot/Woody_WoodPacker) de [**42Mulhouse**](https://www.42mulhouse.fr/en/)
 - 🛡️ Passionné par la **sécurité informatique** et la **protection des systemes d'informations**.
-- 🌱 J'apprends en parallele le **Java** et le **DiscordJS** via un la création d'un [**Plugin**](https://github.com/BenJ4368/BenJPlugin), et de mon propre [**Bot Discord**](https://github.com/BenJ4368/Merlin).
+- 🌱 J'apprends en parallele le **Java** et le **DiscordJS** via un la création d'un [**Plugin**](https://github.com/BenJ4368/BenJPlugin) Minecraft, et de mon propre [**Bot Discord**](https://github.com/BenJ4368/Merlin).
 - ⚡ Fun fact : **Grand joueur de Minecaft et amateur de Cinéma**
 
 ## 🛠️ Technologies & Outils
@@ -53,7 +53,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[VOTRE_PROFIL])
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/424644014478852097)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://BenJ4368.github.io)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjamingaertner.pro@outlook.fr)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjaming@outlook.fr)
 
 </div>
 
