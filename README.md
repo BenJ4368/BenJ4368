@@ -1,16 +1,14 @@
 # 👋 Bonjour, moi c'est BenJ !
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Etudiant+42Mulhouse;Touche+a+tout;Developper,+Gamer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Etudiant+42Mulhouse;Touche-à-tout;Développeur+Gamer" alt="Typing SVG" />
 </div>
 
 ## 🚀 À propos de moi
 
-- 🎯 **En recherche active de stages ou d'alternances en cybersécurité**
+- 🎯 **En recherche active de stages ou d'alternances dans le développement**
 - - 📫 Je suis joignable ici : [**benjaming@outlook.fr**](mailto:benjaming@outlook.fr)
-
 - 🔭 Je travaille actuellement sur le projet [**Hypertube**]([https://github.com/liquidplatypus/Woody_WoodPacker](https://github.com/LiquidPlatypus/hypertube)) de [**42Mulhouse**](https://www.42mulhouse.fr/en/)
-- 🌱 J'apprends en parallele le **Java** et le **DiscordJS** via un la création d'un [**Plugin**](https://github.com/BenJ4368/BenJPlugin) Minecraft, et de mon propre [**Bot Discord**](https://github.com/BenJ4368/Merlin).
 - ⚡ Fun fact : **Grand joueur de Minecaft et amateur de Cinéma**
 
 ## 🛠️ Technologies & Outils
