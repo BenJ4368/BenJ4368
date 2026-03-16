@@ -6,7 +6,7 @@
 
 ## 🚀 À propos de moi
 
-- 🎯 **En recherche active de stages ou d'alternances dans le développement**
+- 🎯 **Actuellement en stage chez [**Oratis**](https://www.oratis.ai/fr) en tant que Developpeur Web/Python, jusqu'au 31 Juillet 2026.
 - - 📫 Je suis joignable ici : [**benjaming@outlook.fr**](mailto:benjaming@outlook.fr)
 - 🔭 Je travaille actuellement sur le projet [**Hypertube**]([https://github.com/liquidplatypus/Woody_WoodPacker](https://github.com/LiquidPlatypus/hypertube)) de [**42Mulhouse**](https://www.42mulhouse.fr/en/)
 - ⚡ Fun fact : **Grand joueur de Minecaft et amateur de Cinéma**
